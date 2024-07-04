@@ -1,4 +1,4 @@
-x# Kalkulator-Sederhana
+# Kalkulator-Sederhana
 <a href="https://github.com/DevisWisley/Kalkulator-Sederhana/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/DevisWisley/Responsive-Gsap-Slider?style=flat-square" alt="github-profile-readme-generator license" />
 </a>
