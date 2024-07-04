@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Windows
+ * @author Devis Wisley
  */
 public class Kalkulator extends javax.swing.JFrame {
     String angka;
